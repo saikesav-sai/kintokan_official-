@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">kintokan</string>
+    <string name="name_hint">enter name</string>
+    <string name="age_hint">enter age</string>
+
+
+
+    <string name="inter_1">
+        ---->INTERMEDIATE Intermediate 1 or Intermediate 2, educational qualifications in Scotland Intermediate (anatomy), the relative location of an anatomical structure lying between two other structures: see Anatomical terms of location Intermediate Edison Screw, a system of light bulb connectors Intermediate goods, goods used to produce other goods Middle school, also known as intermediate school Intermediate Examination, standardized post-secondary entrance exams in the Indian Subcontinent, also known as the Higher Secondary Examination In chemistry, a reaction intermediate is a reaction product that serves as a precursor for other reactions A reactive intermediate is a highly reactive reaction intermediate, hence usually short-lived   Intermediate car, an automobile size classification Intermediate cartridge, a type of firearms cartridge Intermediate composition, a geological classification of the mineral composition of a rock, between mafic and felsic</string>
+    <string name="inter_2">
+        ---->HEC "HEC (History, Economics, and Civics) group: The students who are interested in the Indian history. The group has the more advantages that the subjects are very helpful in the competitive exams or recruitment examinations"
+    </string>
+    <string name="inter_3">
+        ---->CEC (Commerce, Economics, and Civics) group: Most of the people think that opportunities are less with compare than other branches like MPC. But this group has the better chances than other groups. To get the Government jobs, this group is very helpful to the students. Students may also enter into the accounting field by the courses CA / ICWA. For the early career, this group is very helpful for the state wise government jobs or secretariat jobs these students have the more advantages.
+    </string>
+    <string name="inter_4">
+       ----> BIPC: The full form of BiPC is Biology, Physics and Chemistry and refers to the combination of subjects in science stream at intermediate or pre-university level in India
+
+---->MPC: The MPC full form in intermediate studies is Maths, Physics, and Chemistry, thus, it puts thrust on these three main areas. With a diverse curriculum, MPC subjects offer a wide range of career opportunities to explore.
+    </string>
+
+
+
+
+
+
+
+    <string name="diploma_text_1">
+            About Diploma
+    \n \n
+--->DIPLOMA A diploma is a certificate or deed issued by an educational institution, such as college or university, that testifies that the recipient has successfully completed a particular course of study. The word diploma also refers to an academic award which is given after the completion of study in different courses such as diploma in higher education, diploma in graduation or diploma in post-graduation. Historically, it can also refer to a charter or official document,thus diplomatic, diplomat and diplomacy via the Codex Juris Gentium Diplomaticus.
+\n
+
+</string>
+
+
+    <string name="diploma_text_3">
+        --->CME:A diploma in computer engineering or computer science engineering is a 10+2 level of academic programme. It provides students with the basic knowledge of computer science , mathematics and computing techniques and engineering concepts.
+\n
+    </string>
+    <string name="diploma_text_4">
+
+        --->ECE:Electronics and communication engineering is an emerging field of engineering. In first half of the course, the students go through the basic engineering concept, physics, mathematics and chemistry. … Diploma courses leading to the polytechnic diploma of 3 years duration.
+\n
+    </string>
+    <string name="diploma_text_5">
+        --->CIVIL:Polytechnic Diploma in Civil Engineering. Short Description. This course is about designing the process, maintenance, and construction of roads, dams, bridges, buildings, etc.
+\n
+    </string>
+
+    <string name="diploma_text_6">
+        --->EEE:Diploma in Electrical and Electronics Engineering is a 3 years long Diploma certificate program. This course can be pursued by students who have passed 10th and 12th (Science stream, mathematics group) standards
+\n
+    </string>
+    <string name="diploma_text_7">
+        --->AUTO MOBILE:Â  Automotive engineering is one of the most sophisticated courses in engineering which involves design, manufacturing, modification and maintenance of an automobile such as buses, cars, trucks and other transportation vehiclesâ€‹
+\n
+    </string>
+    <string name="diploma_text_8">
+        --->MECH:Diploma in Mechanical Engineering is a twelfth level Diploma course which deals with the field of engineering. Mechanical engineering is a discipline of engineering that applies the principles of physics and materials science for analysis, design, manufacturing, and maintenance of mechanical systems.
+\n
+    </string>
+    <string name="diploma_text_9">
+        --->METALLURGY:Diploma in Metallurgical Engineering is a Diploma level Metallurgical Engineering course. Metallurgy Engineering is one in which all sorts of metals are dealing with. … They are taught to solve the problems such as maintaining heat levels, reducing corrosion and increasing the strength of a metal
+\n
+    </string>
+    <string name="diploma_text_10">
+        --->CHEMICAL:Diploma in Chemical Engineering is a three-year diploma level engineering programme that equips the learners with the knowledge of creating something useful and new using chemicals or raw materials along with life sciences and physical sciences
+\n
+    </string>
+
+
+
+
+    <string name="iiit_text">
+ \t \t \t \t \t About IIIT \n
+Indian Institutes of Information Technology (IIITs) are a group of 25 Interdisciplinary Technical Universities of higher education in India, focused on Information Technology. Five of them are established, funded and managed by the Ministry of Human Resource Development. The rest 20 are set up on the public-private partnership (PPP) model.
+ </string>
+    <string name="stretch">1,2,3</string>
+    <string name="m_tech_and_b_tech">M.tech and B.tech Specialisations</string>
+    <string name="about_iiit">About IIIT
+        \n
+        Indian Institutes of Information Technology (IIITs) are a group of 25 Interdisciplinary Technical Universities of higher education in India, focused on Information Technology. Five of them are established, funded and managed by the Ministry of Human Resource Development. The rest 20 are set up on the public-private partnership (PPP) model.</string>
+
+
+</resources>

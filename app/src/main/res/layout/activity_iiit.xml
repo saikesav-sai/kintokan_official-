@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".iiit"
+
+
+    >
+
+<HorizontalScrollView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+
+    >
+
+
+<TableLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:stretchColumns="@string/stretch"
+    android:layout_margin="8dp"
+
+    >
+
+
+        <TextView
+            android:layout_width="271dp"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/m_tech_and_b_tech"
+            android:textSize="20sp"
+            android:textStyle="bold">
+
+        </TextView>
+
+    <TableRow android:orientation="vertical">
+
+        <TextView
+
+            android:layout_width="118dp"
+            android:layout_column="1"
+            android:gravity="start"
+            android:text="1"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+
+            android:layout_width="118dp"
+            android:layout_column="2"
+            android:gravity="start"
+            android:text="Computer Science Engineering	"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+
+            android:layout_width="118dp"
+            android:layout_column="3"
+            android:gravity="start"
+            android:text="Computer Science Engineering with MTech in Systems Design "
+            android:textSize="20sp"
+
+            >
+
+        </TextView>
+
+
+    </TableRow>
+
+    <TableRow>
+
+        <TextView
+
+            android:layout_width="118dp"
+            android:layout_column="1"
+            android:gravity="start"
+            android:text="2"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+
+            android:layout_width="118dp"
+            android:layout_column="2"
+            android:gravity="start"
+            android:text="Electronics and Communication Engineering	"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+
+            android:layout_width="118dp"
+            android:layout_column="3"
+            android:gravity="start"
+            android:text="Electronics and Communication Engineering with MTech Communication and Systems Design "
+            android:textSize="20sp">
+
+        </TextView>
+
+
+    </TableRow>
+
+    <TableRow>
+
+        <TextView
+
+            android:layout_width="118dp"
+            android:layout_column="1"
+            android:gravity="start"
+            android:text="3"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+
+            android:layout_width="118dp"
+            android:layout_column="2"
+            android:gravity="start"
+            android:text="Electronics and Communication Engineering with Design and Manufacturing	"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+
+            android:layout_width="118dp"
+            android:layout_column="3"
+            android:gravity="start"
+            android:text="Electronics and Communication Engineering with Design and Manufacturing and MTech in VLSI and Electronic systems "
+            android:textSize="20sp">
+
+        </TextView>
+
+
+    </TableRow>
+
+
+    <TableRow>
+
+        <TextView
+
+            android:layout_width="118dp"
+            android:layout_column="1"
+            android:gravity="start"
+            android:text="4"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+
+            android:layout_width="118dp"
+            android:layout_column="2"
+            android:gravity="start"
+            android:text="Information Technology Engineering	"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+
+            android:layout_width="118dp"
+            android:layout_column="3"
+            android:gravity="start"
+            android:text="Electronics and Communication Engineering with Design and Manufacturing and MTech in Signal Processing and Communication System Design "
+            android:textSize="20sp">
+
+        </TextView>
+
+
+    </TableRow>
+
+
+    <TableRow>
+
+        <TextView
+
+            android:layout_width="118dp"
+            android:layout_column="1"
+            android:gravity="start"
+            android:text="5"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+
+            android:layout_width="118dp"
+            android:layout_column="2"
+            android:gravity="start"
+            android:text="Mechanical Engineering with Smart Manufacturing	"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+
+            android:layout_width="118dp"
+            android:layout_column="3"
+            android:gravity="start"
+            android:text="Information Technology Engineering "
+            android:textSize="20sp">
+
+        </TextView>
+
+
+    </TableRow>
+
+
+
+    <TableRow>
+
+        <TextView
+
+            android:layout_width="118dp"
+            android:layout_column="1"
+            android:gravity="start"
+            android:text="6"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+
+            android:layout_width="118dp"
+            android:layout_column="2"
+            android:gravity="start"
+            android:text="Mechanical Engineering with Design and Manufacturing	"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+
+            android:layout_width="118dp"
+            android:layout_column="3"
+            android:gravity="start"
+            android:text="Mechanical Engineering with MTech in Advanced Manufacturing "
+            android:textSize="20sp">
+
+        </TextView>
+
+
+    </TableRow>
+
+
+
+    <TableRow>
+
+        <TextView
+
+            android:layout_width="118dp"
+            android:layout_column="1"
+            android:gravity="start"
+            android:text="7"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+
+            android:layout_width="118dp"
+            android:layout_column="2"
+            android:gravity="start"
+            android:text="Mechatronics Engineering	"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+
+            android:layout_width="118dp"
+            android:layout_column="3"
+            android:gravity="start"
+            android:text="Mechanical Engineering with MTech in Product Design"
+            android:textSize="20sp">
+
+        </TextView>
+
+
+    </TableRow>
+
+
+
+</TableLayout>
+
+
+</HorizontalScrollView>
+
+</ScrollView>
+

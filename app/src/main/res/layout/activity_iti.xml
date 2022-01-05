@@ -1,0 +1,1031 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".iti">
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+        <TableLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:stretchColumns="@string/stretch"
+            android:layout_margin="8dp"
+            >
+
+
+
+                <TextView
+
+                    android:layout_width="386dp"
+
+                    android:text="COURSES"
+                    android:textSize="25sp"
+                    android:textStyle="bold"
+                    android:gravity="center"
+
+                    >
+
+                </TextView>
+
+
+
+            <TableRow
+                android:paddingBottom="7dp"
+                >
+
+
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="1"
+                    android:textSize="20sp">
+
+                </TextView>
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="Bleaching and Dyeing Calico Print	"
+                    android:textSize="20sp">
+
+                </TextView>
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="Non-engineering "
+                    android:textSize="20sp">
+
+                </TextView>
+            </TableRow>
+            <TableRow
+                android:paddingBottom="7dp">
+
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="2"
+                    android:textSize="20sp">
+
+                </TextView>
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="Commercial   Art	"
+                    android:textSize="20sp">
+
+                </TextView>
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="Non-IT "
+                    android:textSize="20sp">
+
+                </TextView>
+            </TableRow>
+            <TableRow
+                android:paddingBottom="7dp">
+
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="3"
+                    android:textSize="20sp">
+
+                </TextView>
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="Diesel Mechanic Engineering	"
+                    android:textSize="20sp">
+
+                </TextView>
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="Engineering "
+                    android:textSize="20sp">
+
+                </TextView>
+            </TableRow>
+            <TableRow
+                android:paddingBottom="7dp">
+
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="4"
+                    android:textSize="20sp">
+
+                </TextView>
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="Draughtsman (Civil) Engineering"
+                    android:textSize="20sp">
+
+
+                </TextView>
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="Engineering "
+                    android:textSize="20sp">
+
+                </TextView>
+            </TableRow>
+            <TableRow
+                android:paddingBottom="7dp">
+
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="5"
+                    android:textSize="20sp">
+
+                </TextView>
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="Draughtsman (Mechanical) Engineering	"
+                    android:textSize="20sp">
+
+                </TextView>
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="Engineering "
+                    android:textSize="20sp">
+
+                </TextView>
+            </TableRow>
+            <TableRow
+                android:paddingBottom="7dp">
+
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="6"
+                    android:textSize="20sp">
+
+                </TextView>
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="Dress Making	"
+                    android:textSize="20sp">
+
+                </TextView>
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="Non-IT"
+                    android:textSize="20sp"
+>
+                </TextView>
+            </TableRow>
+            <TableRow
+                android:paddingBottom="7dp">
+
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="7"
+                    android:textSize="20sp">
+
+                </TextView>
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="Electrician Engineering	"
+                    android:textSize="20sp">
+
+                </TextView>
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="Engineering "
+                    android:textSize="20sp">
+
+                </TextView>
+            </TableRow>
+            <TableRow
+                android:paddingBottom="7dp">
+
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="8"
+                    android:textSize="20sp">
+
+                </TextView>
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="Fitter Engineering	"
+                    android:textSize="20sp">
+
+                </TextView>
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="Engineering "
+                    android:textSize="20sp">
+
+                </TextView>
+            </TableRow>
+            <TableRow
+                android:paddingBottom="7dp">
+
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="9"
+                    android:textSize="20sp">
+
+                </TextView>
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="Foundry Man Engineering	"
+                    android:textSize="20sp">
+
+                </TextView>
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="Engineering"
+                    android:textSize="20sp">
+
+                </TextView>
+            </TableRow>
+            <TableRow
+                android:paddingBottom="7dp"
+                >
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="10"
+                    android:textSize="20sp">
+
+                </TextView>
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="Fruit and Vegetable	"
+                    android:textSize="20sp">
+
+                </TextView>
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="Non-ITI "
+                    android:textSize="20sp">
+
+                </TextView>
+            </TableRow>
+            <TableRow
+                android:paddingBottom="7dp">
+
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="11"
+                    android:textSize="20sp">
+
+                </TextView>
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="Non-ITI "
+                    android:textSize="20sp">
+
+                </TextView>
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="Non-ITI "
+                    android:textSize="20sp">
+
+                </TextView>
+            </TableRow>
+            <TableRow
+                android:paddingBottom="7dp">
+
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="12"
+                    android:textSize="20sp">
+
+                </TextView>
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="Hand Compositor	"
+                    android:textSize="20sp">
+
+                </TextView>
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="Non-ITI "
+                    android:textSize="20sp">
+
+                </TextView>
+            </TableRow>
+            <TableRow
+                android:paddingBottom="7dp">
+
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="13"
+                    android:textSize="20sp">
+
+                </TextView>
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="Information Technology and E.S.M. Engineering	"
+                    android:textSize="20sp">
+
+                </TextView>
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="Engineering"
+                    android:textSize="20sp">
+
+                </TextView>
+            </TableRow>
+            <TableRow
+                android:paddingBottom="7dp">
+
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="14"
+                    android:textSize="20sp">
+
+                </TextView>
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="Leather Goods Maker	"
+                    android:textSize="20sp">
+
+                </TextView>
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="Non-ITI "
+                    android:textSize="20sp">
+
+                </TextView>
+            </TableRow>
+            <TableRow
+                android:paddingBottom="7dp">
+
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="15"
+                    android:textSize="20sp">
+
+                </TextView>
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="Letter press mender	"
+                    android:textSize="20sp">
+
+                </TextView>
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="Non-ITI "
+                    android:textSize="20sp">
+
+                </TextView>
+            </TableRow>
+            <TableRow
+                android:paddingBottom="7dp">
+
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="16"
+                    android:textSize="20sp">
+
+                </TextView>
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="Machinist Engineering	"
+                    android:textSize="20sp">
+
+                </TextView>
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="Engineering "
+                    android:textSize="20sp">
+
+                </TextView>
+            </TableRow>
+            <TableRow
+                android:paddingBottom="7dp">
+
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="17"
+                    android:textSize="20sp">
+
+                </TextView>
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="Manufacture Foot Wear	"
+                    android:textSize="20sp">
+
+                </TextView>
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="Non-ITI "
+                    android:textSize="20sp">
+
+                </TextView>
+            </TableRow>
+            <TableRow
+                android:paddingBottom="7dp">
+
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="18"
+                    android:textSize="20sp">
+
+                </TextView>
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="Mech.Instrument Engneering	"
+                    android:textSize="20sp">
+
+                </TextView>
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="Engineering "
+                    android:textSize="20sp">
+
+                </TextView>
+            </TableRow>
+            <TableRow
+                android:paddingBottom="7dp">
+
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="19"
+                    android:textSize="20sp">
+
+                </TextView>
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="Mechanic Electronics Engineering	"
+                    android:textSize="20sp">
+
+                </TextView>
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="Engineering "
+                    android:textSize="20sp">
+
+                </TextView>
+            </TableRow>
+            <TableRow
+                android:paddingBottom="7dp">
+
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="20"
+                    android:textSize="20sp">
+
+                </TextView>
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="Mechnical Motor Vehicle Engineering	"
+                    android:textSize="20sp">
+
+                </TextView>
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="Engineering "
+                    android:textSize="20sp">
+
+                </TextView>
+            </TableRow>
+            <TableRow
+                android:paddingBottom="7dp">
+
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="21"
+                    android:textSize="20sp">
+
+                </TextView>
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="Mechanic Radio and T.V Engineering	"
+                    android:textSize="20sp">
+
+                </TextView>
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="Engineering "
+                    android:textSize="20sp">
+
+                </TextView>
+            </TableRow>
+            <TableRow
+                android:paddingBottom="7dp">
+
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="22"
+                    android:textSize="20sp">
+
+                </TextView>
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="Motor Driving-cum-Mechanic Engineering	"
+                    android:textSize="20sp">
+
+                </TextView>
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="Engineering "
+                    android:textSize="20sp">
+
+                </TextView>
+            </TableRow>
+            <TableRow
+                android:paddingBottom="7dp">
+
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="23"
+                    android:textSize="20sp">
+
+                </TextView>
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="Pump operator	"
+                    android:textSize="20sp">
+
+                </TextView>
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="Engineering "
+                    android:textSize="20sp">
+
+                </TextView>
+            </TableRow>
+            <TableRow
+                android:paddingBottom="7dp">
+
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="24"
+                    android:textSize="20sp">
+
+                </TextView>
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="Refrigeration Engineering	"
+                    android:textSize="20sp">
+
+                </TextView>
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="Engineering "
+                    android:textSize="20sp">
+
+                </TextView>
+            </TableRow>
+            <TableRow
+                android:paddingBottom="7dp">
+
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="25"
+                    android:textSize="20sp">
+
+                </TextView>
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="Secretarial Practice	"
+                    android:textSize="20sp">
+
+                </TextView>
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="ITI "
+                    android:textSize="20sp">
+
+                </TextView>
+            </TableRow>
+            <TableRow
+                android:paddingBottom="7dp">
+
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="26"
+                    android:textSize="20sp">
+
+                </TextView>
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="Sheet Metal Worker Engineering	"
+                    android:textSize="20sp">
+
+                </TextView>
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="Engineering"
+                    android:textSize="20sp">
+
+                </TextView>
+            </TableRow>
+            <TableRow
+                android:paddingBottom="7dp">
+
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="27"
+                    android:textSize="20sp">
+
+                </TextView>
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="Surveyor Engineering	"
+                    android:textSize="20sp">
+
+                </TextView>
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="Engineering "
+                    android:textSize="20sp">
+
+                </TextView>
+            </TableRow>
+            <TableRow
+                android:paddingBottom="7dp">
+
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="28"
+                    android:textSize="20sp">
+
+                </TextView>
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="Turner Engineering	"
+                    android:textSize="20sp">
+
+                </TextView>
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="Engineering"
+                    android:textSize="20sp">
+
+                </TextView>
+            </TableRow>
+            <TableRow
+                android:paddingBottom="7dp">
+
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="29"
+                    android:textSize="20sp">
+
+                </TextView>
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="Tool and Die Maker Engineering	"
+                    android:textSize="20sp">
+
+                </TextView>
+
+                <TextView
+
+                    android:layout_width="118dp"
+                    android:layout_column="1"
+                    android:gravity="start"
+                    android:text="Engineering"
+                    android:textSize="20sp">
+
+                </TextView>
+            </TableRow>
+
+        </TableLayout>
+
+    </HorizontalScrollView>
+
+</ScrollView>
