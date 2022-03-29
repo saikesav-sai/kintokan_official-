@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:layout_marginHorizontal="60dp"
         android:background="@color/white"
-        android:text="choose a course"
+        android:text="choose a course after 10th"
 
 
         android:textColor="#070707"
