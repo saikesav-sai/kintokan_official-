@@ -20,6 +20,14 @@
             android:textSize="20sp" />
 
         <TextView
+            android:id="@+id/inter_mpc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mpc"
+            android:textSize="20sp"
+            android:paddingTop="100dp"
+            />
+        <TextView
             android:id="@+id/inter_2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

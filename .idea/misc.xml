@@ -3,13 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/sai kesav/AndroidStudioProjects/kintokan_app/app/src/main/res/layout/activity_contact_us.xml" value="0.259375" />
         <entry key="..\:/Users/sai kesav/AndroidStudioProjects/kintokan_app/app/src/main/res/layout/activity_diplama.xml" value="0.2" />
         <entry key="..\:/Users/sai kesav/AndroidStudioProjects/kintokan_app/app/src/main/res/layout/activity_iiit.xml" value="0.1" />
         <entry key="..\:/Users/sai kesav/AndroidStudioProjects/kintokan_app/app/src/main/res/layout/activity_inter.xml" value="0.2" />
         <entry key="..\:/Users/sai kesav/AndroidStudioProjects/kintokan_app/app/src/main/res/layout/activity_iti.xml" value="0.1" />
         <entry key="..\:/Users/sai kesav/AndroidStudioProjects/kintokan_app/app/src/main/res/layout/activity_jobs.xml" value="0.259375" />
         <entry key="..\:/Users/sai kesav/AndroidStudioProjects/kintokan_app/app/src/main/res/layout/activity_list_of_course.xml" value="0.259375" />
-        <entry key="..\:/Users/sai kesav/AndroidStudioProjects/kintokan_app/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/sai kesav/AndroidStudioProjects/kintokan_app/app/src/main/res/layout/activity_main.xml" value="0.264" />
       </map>
     </option>
   </component>
