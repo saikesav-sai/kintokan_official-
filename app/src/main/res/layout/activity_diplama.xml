@@ -85,8 +85,836 @@
             android:textSize="20sp">
 
         </TextView>
-            
 
- </LinearLayout>
+        <TextView
+            android:id="@+id/diploma_text_11"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Hotel management"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_12"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Journalism"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_13"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Education"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_14"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Photography"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_15"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Psychology"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_16"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Elementary Education"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_17"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Digital Marketing"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_18"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Fine Arts"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_19"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in English"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_20"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Fashion Designing"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_21"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Graphic Designing"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_22"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Web Development"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_23"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Web Designing"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_24"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Game Designing"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_25"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Bakery and Confectionery"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_26"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Hotel Reception and Book Keeping"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_27"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Food Technology"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_28"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Information Technology"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_29"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Makeup and Beauty"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_30"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Event Management"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_31"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Business management"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_32"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Marine Engineering"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_33"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Animation"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_34"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Textile Designing"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_35"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Leather Designing"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_36"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Textile Engineering"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_37"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Commercial Arts"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_38"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Graphic Designing"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_39"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Spoken English"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_40"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Functional English"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_41"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Social Media Management"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_42"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Hotel Management"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_43"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Certificate in Hindi"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_44"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Certificate in Animation"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_45"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Certificate Course in Tally "
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_46"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Banking"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_47"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Risk and Insurance"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_48"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Computer Appilication"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_49"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Financial Accounting"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_50"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in e-Accounting Taxation"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_51"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in "
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_52"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Craftsmanship Course in Food Production"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_53"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Certificate in Desiel Machanics"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_54"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Dental Machanics"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_55"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Dental Hyginenist"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_56"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Fashion Technology"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_57"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Fire Safety Engineering"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_58"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Ceramic Tecnology"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_59"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Plastics Technology"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_60"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Commercial Practice"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_61"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Hotel Management and Catering Technology"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_62"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Agriculture"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_63"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Cyber Security or Ethical Hacking"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_64"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Cosmetology"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_65"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Stenography"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_66"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Art Teacher Diploma"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_67"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Graduate Certificate in Marketing Management"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_68"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Petroleum Engineering"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_69"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Business Administration"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_70"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Animation,Arts and Design"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_71"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Hosipitality Management"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_72"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Early Childhood Education and Care"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_73"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Hosipital Assistance"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_74"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Rual Heath Care"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_75"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Pathology lab Technician"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_76"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Paramedic Nursing"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_77"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Certificate of Nursing Assistants"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_78"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Physiotherapy"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_79"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in X-Ray Technology"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_80"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in ECG Technology"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_81"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Radiology"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_82"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Pharmacy"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_83"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Computer Appilication"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_84"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Hardware Maintence"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_85"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Certificate Course in Search Engine Marketing"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_86"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Computer Technician Diploma"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_87"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Certificate in Search Engine Optimisation"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_88"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Certificate in Graphic/Web Designing"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_89"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Certificate Course in Programming Language "
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_90"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Instrumentation Technology"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_91"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Aeronautical Engineering"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_92"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Architectural Assistance"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_93"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Mechatronics"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_94"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Rubber Technology"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_95"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Business Management"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_96"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Food and Beverage Production"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_97"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Hotel Stores Manangement"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_98"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Hosipitality Management"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_99"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in Front Office and Reception Management"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_100"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Certificate Course in Functional/Spoken English"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_101"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Certificate in Mobile Repairing Course"
+            android:textSize="20sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_102"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diploma in 3D Animation"
+            android:textSize="20sp">
+
+        </TextView>
+
+
+    </LinearLayout>
 
 </ScrollView>
