@@ -15,9 +15,6 @@
             android:name=".contact_us"
             android:exported="false" />
         <activity
-            android:name=".jobs"
-            android:exported="false" />
-        <activity
             android:name=".iti"
             android:exported="false" />
         <activity

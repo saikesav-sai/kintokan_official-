@@ -450,7 +450,7 @@
             android:id="@+id/diploma_text_51"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:text="Diploma in "
+            android:text="Diploma in Graphics"
             android:textSize="20sp">
 
         </TextView>
@@ -913,6 +913,17 @@
             android:textSize="20sp">
 
         </TextView>
+
+        <TextView
+            android:id="@+id/diploma_text_103"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="NOTE: After completion of 10th if you want to join in Diploma you have to write AP POLYCET Examination"
+            android:textSize="20sp">
+
+        </TextView>
+
+
 
 
     </LinearLayout>

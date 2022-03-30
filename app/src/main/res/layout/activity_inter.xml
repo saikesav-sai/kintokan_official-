@@ -58,6 +58,16 @@
 
             />
 
+        <TextView
+            android:id="@+id/inter_5"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="NOTE: After 10th to joinning in inter we can optionally write APRJC Examination"
+
+            android:textSize="20sp"
+            android:paddingTop="100dp"/>
+
+
 
     </LinearLayout>
 </android.widget.ScrollView>
