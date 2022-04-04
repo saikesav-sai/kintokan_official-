@@ -12,25 +12,25 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Kintokan">
         <activity
-            android:name=".contact_us"
+            android:name="kintokan.example.kintokan.contact_us"
             android:exported="false" />
         <activity
-            android:name=".iti"
+            android:name="kintokan.example.kintokan.iti"
             android:exported="false" />
         <activity
-            android:name=".iiit"
+            android:name="kintokan.example.kintokan.iiit"
             android:exported="false" />
         <activity
-            android:name=".diplama"
+            android:name="kintokan.example.kintokan.diplama"
             android:exported="false" />
         <activity
-            android:name=".inter"
+            android:name="kintokan.example.kintokan.inter"
             android:exported="false" />
         <activity
-            android:name=".list_of_course"
+            android:name="kintokan.example.kintokan.list_of_course"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name="kintokan.example.kintokan.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

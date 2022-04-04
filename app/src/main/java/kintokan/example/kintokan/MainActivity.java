@@ -1,4 +1,4 @@
-package com.example.kintokan;
+package kintokan.example.kintokan;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -9,8 +9,9 @@ import android.view.View;
 import android.widget.Button;
 
 import android.widget.EditText;
-import android.widget.TextView;
 import android.widget.Toast;
+
+import com.example.kintokan.R;
 
 
 public class MainActivity extends AppCompatActivity {
@@ -33,10 +34,17 @@ public class MainActivity extends AppCompatActivity {
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+
                 if(name_input.getText().toString().isEmpty() || age_input.getText().toString().isEmpty())
                 {
-                    Toast.makeText(MainActivity.this, "please enter your name and age to proceed further", Toast.LENGTH_SHORT).show();
+                  Toast.makeText(MainActivity.this, "please enter your name and age to proceed further", Toast.LENGTH_SHORT).show();
                 }
+                else if(age_input.getText().toString().length()>=3)
+                {
+                    Toast.makeText(MainActivity.this, "please enter your age correctly", Toast.LENGTH_SHORT).show();
+                }
+                
+
                 else
                 {
                     activity();

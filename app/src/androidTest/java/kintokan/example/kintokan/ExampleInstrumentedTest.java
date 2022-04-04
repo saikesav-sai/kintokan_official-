@@ -1,4 +1,4 @@
-package com.example.kintokan;
+package kintokan.example.kintokan;
 
 import android.content.Context;
 

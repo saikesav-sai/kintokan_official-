@@ -1,14 +1,16 @@
-package com.example.kintokan;
+package kintokan.example.kintokan;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class inter extends AppCompatActivity {
+import com.example.kintokan.R;
+
+public class iti extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_inter);
+        setContentView(R.layout.activity_iti);
     }
 }

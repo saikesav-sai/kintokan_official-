@@ -1,8 +1,10 @@
-package com.example.kintokan;
+package kintokan.example.kintokan;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.kintokan.R;
 
 public class diplama extends AppCompatActivity {
 
