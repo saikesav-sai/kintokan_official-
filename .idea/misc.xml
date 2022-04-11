@@ -16,16 +16,26 @@
         <entry key="..\:/Users/sai kesav/AndroidStudioProjects/kintokan_app/app/src/main/res/layout/activity_list_of_course.xml" value="0.259375" />
         <entry key="..\:/Users/sai kesav/AndroidStudioProjects/kintokan_app/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Users/sai kesav/AndroidStudioProjects/kintokan_app/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.186" />
+        <entry key="app/src/main/res/drawable/edit_splashscreen.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/activity_after_mpc.xml" value="0.16354166666666667" />
+        <entry key="app/src/main/res/layout/activity_aftermpc.xml" value="0.17916666666666667" />
         <entry key="app/src/main/res/layout/activity_competitive_exams_after_10th.xml" value="0.17028985507246377" />
         <entry key="app/src/main/res/layout/activity_competitiveexamsafter10th.xml" value="0.1" />
-        <entry key="app/src/main/res/layout/activity_diplama.xml" value="0.16445623342175067" />
+        <entry key="app/src/main/res/layout/activity_contact_us.xml" value="0.1693840579710145" />
+        <entry key="app/src/main/res/layout/activity_diplama.xml" value="0.1376" />
+        <entry key="app/src/main/res/layout/activity_iiit.xml" value="0.17916666666666667" />
+        <entry key="app/src/main/res/layout/activity_inter.xml" value="0.11601150527325024" />
+        <entry key="app/src/main/res/layout/activity_iti.xml" value="0.17916666666666667" />
         <entry key="app/src/main/res/layout/activity_jobs.xml" value="0.17028985507246377" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/activity_list_of_course.xml" value="0.17916666666666667" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_mpc.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_mpc2.xml" value="0.17916666666666667" />
         <entry key="app/src/main/res/layout/competitiveexamsafter10th.xml" value="0.17028985507246377" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
