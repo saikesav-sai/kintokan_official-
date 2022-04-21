@@ -1,25 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
 
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="kintokan.example.kintokan.diplama">
 
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:background="@drawable/lnr_with_border"
         android:id="@+id/linearlayout_1"
         android:orientation="vertical"
         >
+
+
 
         <TextView
             android:id="@+id/diploma_text_1"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:text="@string/diploma_text_1"
-            android:textColor="@color/black"
-            android:layout_marginLeft="30dp"
+           android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
             android:textSize="20sp">
 
@@ -29,19 +33,18 @@
             android:id="@+id/diploma_text_3"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:text="@string/diploma_text_3"
-            android:textColor="@color/black"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
+            android:text="@string/diploma_text_3"
             android:textSize="20sp">
 
         </TextView>
+
         <TextView
             android:id="@+id/diploma_tex_4"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:text="@string/diploma_text_4"
-            android:textColor="@color/black"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
             android:textSize="20sp">
@@ -54,7 +57,6 @@
             android:text="@string/diploma_text_5"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -65,7 +67,6 @@
             android:text="@string/diploma_text_6"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -76,7 +77,6 @@
             android:text="@string/diploma_text_7"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -87,7 +87,6 @@
             android:text="@string/diploma_text_8"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -98,7 +97,6 @@
             android:text="@string/diploma_text_9"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -109,7 +107,6 @@
             android:text="@string/diploma_text_10"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -121,7 +118,6 @@
             android:text="Diploma in Hotel management"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -133,7 +129,6 @@
             android:text="Diploma in Journalism"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -145,7 +140,6 @@
             android:text="Diploma in Education"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -157,7 +151,6 @@
             android:text="Diploma in Photography"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -169,7 +162,6 @@
             android:text="Diploma in Psychology"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -181,7 +173,6 @@
             android:text="Diploma in Elementary Education"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -193,7 +184,6 @@
             android:text="Diploma in Digital Marketing"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -205,7 +195,6 @@
             android:text="Diploma in Fine Arts"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -217,7 +206,6 @@
             android:text="Diploma in English"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -229,7 +217,6 @@
             android:text="Diploma in Fashion Designing"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -241,7 +228,6 @@
             android:text="Diploma in Graphic Designing"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -253,7 +239,6 @@
             android:text="Diploma in Web Development"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -265,7 +250,6 @@
             android:text="Diploma in Web Designing"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -277,7 +261,6 @@
             android:text="Diploma in Game Designing"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -289,7 +272,6 @@
             android:text="Diploma in Bakery and Confectionery"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -301,7 +283,6 @@
             android:text="Diploma in Hotel Reception and Book Keeping"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -313,7 +294,6 @@
             android:text="Diploma in Food Technology"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -325,7 +305,6 @@
             android:text="Diploma in Information Technology"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -337,7 +316,6 @@
             android:text="Diploma in Makeup and Beauty"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -349,7 +327,6 @@
             android:text="Diploma in Event Management"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -361,7 +338,6 @@
             android:text="Diploma in Business management"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -373,7 +349,6 @@
             android:text="Diploma in Marine Engineering"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -385,7 +360,6 @@
             android:text="Diploma in Animation"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -397,7 +371,6 @@
             android:text="Diploma in Textile Designing"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -409,7 +382,6 @@
             android:text="Diploma in Leather Designing"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -420,8 +392,6 @@
             android:layout_height="match_parent"
             android:text="Diploma in Textile Engineering"
             android:layout_marginLeft="30dp"
-            android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -433,7 +403,6 @@
             android:text="Diploma in Commercial Arts"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -445,7 +414,6 @@
             android:text="Diploma in Graphic Designing"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -457,7 +425,6 @@
             android:text="Diploma in Spoken English"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -469,7 +436,6 @@
             android:text="Diploma in Functional English"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -481,7 +447,6 @@
             android:text="Diploma in Social Media Management"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -493,7 +458,6 @@
             android:text="Diploma in Hotel Management"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -505,7 +469,6 @@
             android:text="Certificate in Hindi"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -517,7 +480,6 @@
             android:text="Certificate in Animation"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -529,7 +491,6 @@
             android:text="Certificate Course in Tally "
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -541,7 +502,6 @@
             android:text="Diploma in Banking"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -553,7 +513,6 @@
             android:text="Diploma in Risk and Insurance"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -565,7 +524,6 @@
             android:text="Diploma in Computer Appilication"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -577,7 +535,6 @@
             android:text="Diploma in Financial Accounting"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -589,7 +546,6 @@
             android:text="Diploma in e-Accounting Taxation"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -601,7 +557,6 @@
             android:text="Diploma in Graphics"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -613,7 +568,6 @@
             android:text="Craftsmanship Course in Food Production"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -625,7 +579,6 @@
             android:text="Certificate in Desiel Machanics"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -637,7 +590,6 @@
             android:text="Diploma in Dental Machanics"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -649,7 +601,6 @@
             android:text="Diploma in Dental Hyginenist"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -661,7 +612,6 @@
             android:text="Diploma in Fashion Technology"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -673,7 +623,6 @@
             android:text="Diploma in Fire Safety Engineering"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -685,7 +634,6 @@
             android:text="Diploma in Ceramic Tecnology"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -697,7 +645,6 @@
             android:text="Diploma in Plastics Technology"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -709,7 +656,6 @@
             android:text="Diploma in Commercial Practice"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -721,7 +667,6 @@
             android:text="Diploma in Hotel Management and Catering Technology"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -733,7 +678,6 @@
             android:text="Diploma in Agriculture"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -745,7 +689,6 @@
             android:text="Diploma in Cyber Security or Ethical Hacking"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -757,7 +700,6 @@
             android:text="Diploma in Cosmetology"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -769,7 +711,6 @@
             android:text="Diploma in Stenography"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -781,7 +722,6 @@
             android:text="Art Teacher Diploma"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -793,7 +733,6 @@
             android:text="Graduate Certificate in Marketing Management"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -805,7 +744,6 @@
             android:text="Diploma in Petroleum Engineering"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -817,7 +755,6 @@
             android:text="Diploma in Business Administration"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -829,7 +766,6 @@
             android:text="Diploma in Animation,Arts and Design"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -841,7 +777,6 @@
             android:text="Diploma in Hosipitality Management"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -853,7 +788,6 @@
             android:text="Diploma in Early Childhood Education and Care"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -865,7 +799,6 @@
             android:text="Diploma in Hosipital Assistance"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -877,7 +810,6 @@
             android:text="Diploma in Rual Heath Care"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -889,7 +821,6 @@
             android:text="Pathology lab Technician"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -901,7 +832,6 @@
             android:text="Diploma in Paramedic Nursing"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -913,7 +843,6 @@
             android:text="Certificate of Nursing Assistants"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -925,7 +854,6 @@
             android:text="Diploma in Physiotherapy"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -937,7 +865,6 @@
             android:text="Diploma in X-Ray Technology"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -949,7 +876,6 @@
             android:text="Diploma in ECG Technology"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -961,7 +887,6 @@
             android:text="Diploma in Radiology"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -973,7 +898,6 @@
             android:text="Diploma in Pharmacy"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -985,7 +909,6 @@
             android:text="Diploma in Computer Appilication"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -997,7 +920,6 @@
             android:text="Diploma in Hardware Maintence"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -1009,7 +931,6 @@
             android:text="Certificate Course in Search Engine Marketing"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -1021,7 +942,6 @@
             android:text="Computer Technician Diploma"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -1033,7 +953,6 @@
             android:text="Certificate in Search Engine Optimisation"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -1045,7 +964,6 @@
             android:text="Certificate in Graphic/Web Designing"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -1057,7 +975,6 @@
             android:text="Certificate Course in Programming Language "
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -1069,7 +986,6 @@
             android:text="Diploma in Instrumentation Technology"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -1081,7 +997,6 @@
             android:text="Diploma in Aeronautical Engineering"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -1093,7 +1008,6 @@
             android:text="Diploma in Architectural Assistance"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -1105,7 +1019,6 @@
             android:text="Diploma in Mechatronics"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -1117,7 +1030,6 @@
             android:text="Diploma in Rubber Technology"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -1129,7 +1041,6 @@
             android:text="Diploma in Business Management"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -1141,10 +1052,10 @@
             android:text="Diploma in Food and Beverage Production"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
+
 
         <TextView
             android:id="@+id/diploma_text_97"
@@ -1153,7 +1064,6 @@
             android:text="Diploma in Hotel Stores Manangement"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -1165,7 +1075,6 @@
             android:text="Diploma in Hosipitality Management"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -1177,7 +1086,6 @@
             android:text="Diploma in Front Office and Reception Management"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -1189,7 +1097,6 @@
             android:text="Certificate Course in Functional/Spoken English"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -1201,7 +1108,6 @@
             android:text="Certificate in Mobile Repairing Course"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>
@@ -1213,7 +1119,6 @@
             android:text="Diploma in 3D Animation"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
-            android:textColor="@color/black"
             android:textSize="20sp">
 
         </TextView>

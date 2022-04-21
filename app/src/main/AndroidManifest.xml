@@ -4,7 +4,7 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@drawable/whatsapp_image_2022_04_19_at_7_38_16_am"
+        android:icon="@drawable/_0220329_141439"
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/Theme.Kintokan">

@@ -10,12 +10,12 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="vertical">
+        android:orientation="vertical"
+        android:background="@drawable/lnr_with_border">
 
         <TextView
             android:id="@+id/inter_1"
             android:layout_width="match_parent"
-            android:textColor="@color/black"
             android:layout_height="wrap_content"
             android:text="@string/inter_1"
             android:layout_marginLeft="30dp"
@@ -26,7 +26,6 @@
             android:id="@+id/inter_mpc"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textColor="@color/black"
             android:text="@string/mpc"
             android:textSize="20sp"
             android:layout_marginLeft="30dp"
@@ -45,14 +44,12 @@
             android:paddingTop="100dp"
             android:layout_marginTop="100dp"
             android:text="@string/inter_2"
-            android:textColor="@color/black"
             android:textSize="20sp" />
 
         <TextView
             android:id="@+id/inter_3"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textColor="@color/black"
             android:text="@string/inter_3"
             android:textSize="20sp"
             android:layout_marginLeft="30dp"
@@ -64,7 +61,6 @@
             android:id="@+id/inter_4"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:textColor="@color/black"
             android:text="@string/inter_4"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
