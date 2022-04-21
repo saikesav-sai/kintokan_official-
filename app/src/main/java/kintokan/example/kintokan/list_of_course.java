@@ -77,6 +77,12 @@ public class list_of_course extends AppCompatActivity {
         Intent inter_intent=new Intent(this,inter.class);
         startActivity(inter_intent);
     }
+    public void calling_AfterMPC()
+    {
+        Intent AfterMPC_intent=new Intent(this,inter.class);
+        startActivity(AfterMPC_intent);
+    }
+
 
     public void calling_diploma()
     {

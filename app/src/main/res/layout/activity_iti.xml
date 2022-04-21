@@ -14,6 +14,7 @@
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:stretchColumns="@string/stretch"
+            android:textColor="@color/black"
             android:layout_margin="8dp"
             >
 
@@ -24,6 +25,7 @@
                     android:layout_width="386dp"
 
                     android:text="COURSES"
+                    android:textColor="@color/black"
                     android:textSize="25sp"
                     android:textStyle="bold"
                     android:gravity="center"
@@ -43,6 +45,7 @@
                 <TextView
 
                     android:layout_width="118dp"
+                    android:textColor="@color/black"
                     android:layout_column="1"
                     android:gravity="start"
                     android:text="1"
@@ -54,6 +57,7 @@
 
                     android:layout_width="118dp"
                     android:layout_column="1"
+                    android:textColor="@color/black"
                     android:gravity="start"
                     android:text="Bleaching and Dyeing Calico Print	"
                     android:textSize="20sp">
@@ -64,6 +68,7 @@
 
                     android:layout_width="118dp"
                     android:layout_column="1"
+                    android:textColor="@color/black"
                     android:gravity="start"
                     android:text="Non-engineering "
                     android:textSize="20sp">
@@ -79,6 +84,7 @@
                     android:layout_width="118dp"
                     android:layout_column="1"
                     android:gravity="start"
+                    android:textColor="@color/black"
                     android:text="2"
                     android:textSize="20sp">
 
@@ -89,6 +95,7 @@
                     android:layout_width="118dp"
                     android:layout_column="1"
                     android:gravity="start"
+                    android:textColor="@color/black"
                     android:text="Commercial   Art	"
                     android:textSize="20sp">
 
@@ -98,6 +105,7 @@
 
                     android:layout_width="118dp"
                     android:layout_column="1"
+                    android:textColor="@color/black"
                     android:gravity="start"
                     android:text="Non-IT "
                     android:textSize="20sp">
@@ -112,6 +120,7 @@
 
                     android:layout_width="118dp"
                     android:layout_column="1"
+                    android:textColor="@color/black"
                     android:gravity="start"
                     android:text="3"
                     android:textSize="20sp">
@@ -122,6 +131,7 @@
 
                     android:layout_width="118dp"
                     android:layout_column="1"
+                    android:textColor="@color/black"
                     android:gravity="start"
                     android:text="Diesel Mechanic Engineering	"
                     android:textSize="20sp">
@@ -132,6 +142,7 @@
 
                     android:layout_width="118dp"
                     android:layout_column="1"
+                    android:textColor="@color/black"
                     android:gravity="start"
                     android:text="Engineering "
                     android:textSize="20sp">
@@ -146,6 +157,7 @@
 
                     android:layout_width="118dp"
                     android:layout_column="1"
+                    android:textColor="@color/black"
                     android:gravity="start"
                     android:text="4"
                     android:textSize="20sp">
@@ -156,6 +168,7 @@
 
                     android:layout_width="118dp"
                     android:layout_column="1"
+                    android:textColor="@color/black"
                     android:gravity="start"
                     android:text="Draughtsman (Civil) Engineering"
                     android:textSize="20sp">
@@ -169,6 +182,7 @@
                     android:layout_column="1"
                     android:gravity="start"
                     android:text="Engineering "
+                    android:textColor="@color/black"
                     android:textSize="20sp">
 
                 </TextView>
@@ -182,6 +196,7 @@
                     android:layout_width="118dp"
                     android:layout_column="1"
                     android:gravity="start"
+                    android:textColor="@color/black"
                     android:text="5"
                     android:textSize="20sp">
 
@@ -192,6 +207,7 @@
                     android:layout_width="118dp"
                     android:layout_column="1"
                     android:gravity="start"
+                    android:textColor="@color/black"
                     android:text="Draughtsman (Mechanical) Engineering	"
                     android:textSize="20sp">
 
@@ -201,6 +217,7 @@
 
                     android:layout_width="118dp"
                     android:layout_column="1"
+                    android:textColor="@color/black"
                     android:gravity="start"
                     android:text="Engineering "
                     android:textSize="20sp">
@@ -216,6 +233,7 @@
                     android:layout_width="118dp"
                     android:layout_column="1"
                     android:gravity="start"
+                    android:textColor="@color/black"
                     android:text="6"
                     android:textSize="20sp">
 
@@ -227,6 +245,7 @@
                     android:layout_column="1"
                     android:gravity="start"
                     android:text="Dress Making	"
+                    android:textColor="@color/black"
                     android:textSize="20sp">
 
                 </TextView>
@@ -235,6 +254,7 @@
 
                     android:layout_width="118dp"
                     android:layout_column="1"
+                    android:textColor="@color/black"
                     android:gravity="start"
                     android:text="Non-IT"
                     android:textSize="20sp"
@@ -249,6 +269,7 @@
 
                     android:layout_width="118dp"
                     android:layout_column="1"
+                    android:textColor="@color/black"
                     android:gravity="start"
                     android:text="7"
                     android:textSize="20sp">
@@ -261,6 +282,7 @@
                     android:layout_column="1"
                     android:gravity="start"
                     android:text="Electrician Engineering	"
+                    android:textColor="@color/black"
                     android:textSize="20sp">
 
                 </TextView>
@@ -271,6 +293,7 @@
                     android:layout_column="1"
                     android:gravity="start"
                     android:text="Engineering "
+                    android:textColor="@color/black"
                     android:textSize="20sp">
 
                 </TextView>
@@ -283,6 +306,7 @@
 
                     android:layout_width="118dp"
                     android:layout_column="1"
+                    android:textColor="@color/black"
                     android:gravity="start"
                     android:text="8"
                     android:textSize="20sp">
@@ -295,6 +319,7 @@
                     android:layout_column="1"
                     android:gravity="start"
                     android:text="Fitter Engineering	"
+                    android:textColor="@color/black"
                     android:textSize="20sp">
 
                 </TextView>
@@ -305,6 +330,7 @@
                     android:layout_column="1"
                     android:gravity="start"
                     android:text="Engineering "
+                    android:textColor="@color/black"
                     android:textSize="20sp">
 
                 </TextView>
@@ -317,6 +343,7 @@
 
                     android:layout_width="118dp"
                     android:layout_column="1"
+                    android:textColor="@color/black"
                     android:gravity="start"
                     android:text="9"
                     android:textSize="20sp">
@@ -329,6 +356,7 @@
                     android:layout_column="1"
                     android:gravity="start"
                     android:text="Foundry Man Engineering	"
+                    android:textColor="@color/black"
                     android:textSize="20sp">
 
                 </TextView>
@@ -339,6 +367,7 @@
                     android:layout_column="1"
                     android:gravity="start"
                     android:text="Engineering"
+                    android:textColor="@color/black"
                     android:textSize="20sp">
 
                 </TextView>
@@ -350,6 +379,7 @@
                 <TextView
 
                     android:layout_width="118dp"
+                    android:textColor="@color/black"
                     android:layout_column="1"
                     android:gravity="start"
                     android:text="10"
@@ -361,6 +391,7 @@
 
                     android:layout_width="118dp"
                     android:layout_column="1"
+                    android:textColor="@color/black"
                     android:gravity="start"
                     android:text="Fruit and Vegetable	"
                     android:textSize="20sp">
@@ -370,6 +401,7 @@
                 <TextView
 
                     android:layout_width="118dp"
+                    android:textColor="@color/black"
                     android:layout_column="1"
                     android:gravity="start"
                     android:text="Non-ITI "
@@ -384,6 +416,7 @@
                 <TextView
 
                     android:layout_width="118dp"
+                    android:textColor="@color/black"
                     android:layout_column="1"
                     android:gravity="start"
                     android:text="11"
@@ -395,6 +428,7 @@
 
                     android:layout_width="118dp"
                     android:layout_column="1"
+                    android:textColor="@color/black"
                     android:gravity="start"
                     android:text="Non-ITI "
                     android:textSize="20sp">
@@ -406,6 +440,7 @@
                     android:layout_width="118dp"
                     android:layout_column="1"
                     android:gravity="start"
+                    android:textColor="@color/black"
                     android:text="Non-ITI "
                     android:textSize="20sp">
 
@@ -418,6 +453,7 @@
                 <TextView
 
                     android:layout_width="118dp"
+                    android:textColor="@color/black"
                     android:layout_column="1"
                     android:gravity="start"
                     android:text="12"
@@ -429,6 +465,7 @@
 
                     android:layout_width="118dp"
                     android:layout_column="1"
+                    android:textColor="@color/black"
                     android:gravity="start"
                     android:text="Hand Compositor	"
                     android:textSize="20sp">
@@ -439,6 +476,7 @@
 
                     android:layout_width="118dp"
                     android:layout_column="1"
+                    android:textColor="@color/black"
                     android:gravity="start"
                     android:text="Non-ITI "
                     android:textSize="20sp">
@@ -454,6 +492,7 @@
                     android:layout_width="118dp"
                     android:layout_column="1"
                     android:gravity="start"
+                    android:textColor="@color/black"
                     android:text="13"
                     android:textSize="20sp">
 
@@ -463,6 +502,7 @@
 
                     android:layout_width="118dp"
                     android:layout_column="1"
+                    android:textColor="@color/black"
                     android:gravity="start"
                     android:text="Information Technology and E.S.M. Engineering	"
                     android:textSize="20sp">
@@ -473,6 +513,7 @@
 
                     android:layout_width="118dp"
                     android:layout_column="1"
+                    android:textColor="@color/black"
                     android:gravity="start"
                     android:text="Engineering"
                     android:textSize="20sp">
@@ -488,6 +529,7 @@
                     android:layout_width="118dp"
                     android:layout_column="1"
                     android:gravity="start"
+                    android:textColor="@color/black"
                     android:text="14"
                     android:textSize="20sp">
 
@@ -496,6 +538,7 @@
                 <TextView
 
                     android:layout_width="118dp"
+                    android:textColor="@color/black"
                     android:layout_column="1"
                     android:gravity="start"
                     android:text="Leather Goods Maker	"
@@ -507,6 +550,7 @@
 
                     android:layout_width="118dp"
                     android:layout_column="1"
+                    android:textColor="@color/black"
                     android:gravity="start"
                     android:text="Non-ITI "
                     android:textSize="20sp">
@@ -520,6 +564,7 @@
                 <TextView
 
                     android:layout_width="118dp"
+                    android:textColor="@color/black"
                     android:layout_column="1"
                     android:gravity="start"
                     android:text="15"
@@ -533,6 +578,7 @@
                     android:layout_column="1"
                     android:gravity="start"
                     android:text="Letter press mender	"
+                    android:textColor="@color/black"
                     android:textSize="20sp">
 
                 </TextView>
@@ -540,6 +586,7 @@
                 <TextView
 
                     android:layout_width="118dp"
+                    android:textColor="@color/black"
                     android:layout_column="1"
                     android:gravity="start"
                     android:text="Non-ITI "
@@ -554,6 +601,7 @@
                 <TextView
 
                     android:layout_width="118dp"
+                    android:textColor="@color/black"
                     android:layout_column="1"
                     android:gravity="start"
                     android:text="16"
@@ -567,6 +615,7 @@
                     android:layout_column="1"
                     android:gravity="start"
                     android:text="Machinist Engineering	"
+                    android:textColor="@color/black"
                     android:textSize="20sp">
 
                 </TextView>
@@ -576,6 +625,7 @@
                     android:layout_width="118dp"
                     android:layout_column="1"
                     android:gravity="start"
+                    android:textColor="@color/black"
                     android:text="Engineering "
                     android:textSize="20sp">
 
@@ -588,6 +638,7 @@
                 <TextView
 
                     android:layout_width="118dp"
+                    android:textColor="@color/black"
                     android:layout_column="1"
                     android:gravity="start"
                     android:text="17"
@@ -601,6 +652,7 @@
                     android:layout_column="1"
                     android:gravity="start"
                     android:text="Manufacture Foot Wear	"
+                    android:textColor="@color/black"
                     android:textSize="20sp">
 
                 </TextView>
@@ -609,6 +661,7 @@
 
                     android:layout_width="118dp"
                     android:layout_column="1"
+                    android:textColor="@color/black"
                     android:gravity="start"
                     android:text="Non-ITI "
                     android:textSize="20sp">
@@ -623,6 +676,7 @@
 
                     android:layout_width="118dp"
                     android:layout_column="1"
+                    android:textColor="@color/black"
                     android:gravity="start"
                     android:text="18"
                     android:textSize="20sp">
@@ -634,6 +688,7 @@
                     android:layout_width="118dp"
                     android:layout_column="1"
                     android:gravity="start"
+                    android:textColor="@color/black"
                     android:text="Mech.Instrument Engneering	"
                     android:textSize="20sp">
 
@@ -643,6 +698,7 @@
 
                     android:layout_width="118dp"
                     android:layout_column="1"
+                    android:textColor="@color/black"
                     android:gravity="start"
                     android:text="Engineering "
                     android:textSize="20sp">
@@ -656,6 +712,7 @@
                 <TextView
 
                     android:layout_width="118dp"
+                    android:textColor="@color/black"
                     android:layout_column="1"
                     android:gravity="start"
                     android:text="19"
@@ -666,6 +723,7 @@
                 <TextView
 
                     android:layout_width="118dp"
+                    android:textColor="@color/black"
                     android:layout_column="1"
                     android:gravity="start"
                     android:text="Mechanic Electronics Engineering	"
@@ -676,6 +734,7 @@
                 <TextView
 
                     android:layout_width="118dp"
+                    android:textColor="@color/black"
                     android:layout_column="1"
                     android:gravity="start"
                     android:text="Engineering "
@@ -690,6 +749,7 @@
                 <TextView
 
                     android:layout_width="118dp"
+                    android:textColor="@color/black"
                     android:layout_column="1"
                     android:gravity="start"
                     android:text="20"
@@ -700,6 +760,7 @@
                 <TextView
 
                     android:layout_width="118dp"
+                    android:textColor="@color/black"
                     android:layout_column="1"
                     android:gravity="start"
                     android:text="Mechnical Motor Vehicle Engineering	"
@@ -712,6 +773,7 @@
                     android:layout_width="118dp"
                     android:layout_column="1"
                     android:gravity="start"
+                    android:textColor="@color/black"
                     android:text="Engineering "
                     android:textSize="20sp">
 
@@ -724,6 +786,7 @@
                 <TextView
 
                     android:layout_width="118dp"
+                    android:textColor="@color/black"
                     android:layout_column="1"
                     android:gravity="start"
                     android:text="21"
@@ -734,6 +797,7 @@
                 <TextView
 
                     android:layout_width="118dp"
+                    android:textColor="@color/black"
                     android:layout_column="1"
                     android:gravity="start"
                     android:text="Mechanic Radio and T.V Engineering	"
@@ -744,6 +808,7 @@
                 <TextView
 
                     android:layout_width="118dp"
+                    android:textColor="@color/black"
                     android:layout_column="1"
                     android:gravity="start"
                     android:text="Engineering "
@@ -758,6 +823,7 @@
                 <TextView
 
                     android:layout_width="118dp"
+                    android:textColor="@color/black"
                     android:layout_column="1"
                     android:gravity="start"
                     android:text="22"
@@ -768,6 +834,7 @@
                 <TextView
 
                     android:layout_width="118dp"
+                    android:textColor="@color/black"
                     android:layout_column="1"
                     android:gravity="start"
                     android:text="Motor Driving-cum-Mechanic Engineering	"
@@ -778,6 +845,7 @@
                 <TextView
 
                     android:layout_width="118dp"
+                    android:textColor="@color/black"
                     android:layout_column="1"
                     android:gravity="start"
                     android:text="Engineering "
@@ -792,6 +860,7 @@
                 <TextView
 
                     android:layout_width="118dp"
+                    android:textColor="@color/black"
                     android:layout_column="1"
                     android:gravity="start"
                     android:text="23"
@@ -802,6 +871,7 @@
                 <TextView
 
                     android:layout_width="118dp"
+                    android:textColor="@color/black"
                     android:layout_column="1"
                     android:gravity="start"
                     android:text="Pump operator	"
@@ -815,6 +885,7 @@
                     android:layout_column="1"
                     android:gravity="start"
                     android:text="Engineering "
+                    android:textColor="@color/black"
                     android:textSize="20sp">
 
                 </TextView>
@@ -826,6 +897,7 @@
                 <TextView
 
                     android:layout_width="118dp"
+                    android:textColor="@color/black"
                     android:layout_column="1"
                     android:gravity="start"
                     android:text="24"
@@ -837,6 +909,7 @@
 
                     android:layout_width="118dp"
                     android:layout_column="1"
+                    android:textColor="@color/black"
                     android:gravity="start"
                     android:text="Refrigeration Engineering	"
                     android:textSize="20sp">
@@ -846,6 +919,7 @@
                 <TextView
 
                     android:layout_width="118dp"
+                    android:textColor="@color/black"
                     android:layout_column="1"
                     android:gravity="start"
                     android:text="Engineering "
@@ -860,6 +934,7 @@
                 <TextView
 
                     android:layout_width="118dp"
+                    android:textColor="@color/black"
                     android:layout_column="1"
                     android:gravity="start"
                     android:text="25"
@@ -870,6 +945,7 @@
                 <TextView
 
                     android:layout_width="118dp"
+                    android:textColor="@color/black"
                     android:layout_column="1"
                     android:gravity="start"
                     android:text="Secretarial Practice	"
@@ -880,6 +956,7 @@
                 <TextView
 
                     android:layout_width="118dp"
+                    android:textColor="@color/black"
                     android:layout_column="1"
                     android:gravity="start"
                     android:text="ITI "
@@ -894,6 +971,7 @@
                 <TextView
 
                     android:layout_width="118dp"
+                    android:textColor="@color/black"
                     android:layout_column="1"
                     android:gravity="start"
                     android:text="26"
@@ -904,6 +982,7 @@
                 <TextView
 
                     android:layout_width="118dp"
+                    android:textColor="@color/black"
                     android:layout_column="1"
                     android:gravity="start"
                     android:text="Sheet Metal Worker Engineering	"
@@ -914,6 +993,7 @@
                 <TextView
 
                     android:layout_width="118dp"
+                    android:textColor="@color/black"
                     android:layout_column="1"
                     android:gravity="start"
                     android:text="Engineering"
@@ -928,6 +1008,7 @@
                 <TextView
 
                     android:layout_width="118dp"
+                    android:textColor="@color/black"
                     android:layout_column="1"
                     android:gravity="start"
                     android:text="27"
@@ -940,6 +1021,7 @@
                     android:layout_width="118dp"
                     android:layout_column="1"
                     android:gravity="start"
+                    android:textColor="@color/black"
                     android:text="Surveyor Engineering	"
                     android:textSize="20sp">
 
@@ -951,6 +1033,7 @@
                     android:layout_column="1"
                     android:gravity="start"
                     android:text="Engineering "
+                    android:textColor="@color/black"
                     android:textSize="20sp">
 
                 </TextView>
@@ -962,6 +1045,7 @@
                 <TextView
 
                     android:layout_width="118dp"
+                    android:textColor="@color/black"
                     android:layout_column="1"
                     android:gravity="start"
                     android:text="28"
@@ -974,6 +1058,8 @@
                     android:layout_width="118dp"
                     android:layout_column="1"
                     android:gravity="start"
+                    android:textColor="@color/black"
+
                     android:text="Turner Engineering	"
                     android:textSize="20sp">
 
@@ -982,6 +1068,7 @@
                 <TextView
 
                     android:layout_width="118dp"
+                    android:textColor="@color/black"
                     android:layout_column="1"
                     android:gravity="start"
                     android:text="Engineering"
@@ -998,6 +1085,7 @@
                     android:layout_width="118dp"
                     android:layout_column="1"
                     android:gravity="start"
+                    android:textColor="@color/black"
                     android:text="29"
                     android:textSize="20sp">
 
@@ -1008,6 +1096,7 @@
                     android:layout_width="118dp"
                     android:layout_column="1"
                     android:gravity="start"
+                    android:textColor="@color/black"
                     android:text="Tool and Die Maker Engineering	"
                     android:textSize="20sp">
 
@@ -1019,6 +1108,7 @@
                     android:layout_column="1"
                     android:gravity="start"
                     android:text="Engineering"
+                    android:textColor="@color/black"
                     android:textSize="20sp">
 
                 </TextView>
