@@ -9,6 +9,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Kintokan">
         <activity
+            android:name="kintokan.example.kintokan.mpc"
+            android:exported="false" />
+        <activity
             android:name="kintokan.example.kintokan.contact_us"
             android:exported="false" />
         <activity

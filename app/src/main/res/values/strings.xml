@@ -17,7 +17,7 @@
 
     </string>
     <string name="mpc">
-        MPC  !\n \n The MPC full form in intermediate studies is Maths, Physics, and Chemistry, thus, it puts thrust on these three main areas. With a diverse curriculum, MPC subjects offer a wide range of career opportunities to explore.
+          ! The MPC full form in intermediate studies is Maths, Physics, and Chemistry, thus, it puts thrust on these three main areas. With a diverse curriculum, MPC subjects offer a wide range of career opportunities to explore.
 
     </string>
 
@@ -76,6 +76,5 @@ Indian Institutes of Information Technology (IIITs) are a group of 25 Interdisci
     <string name="about_iiit">About IIIT
         \n
         Indian Institutes of Information Technology (IIITs) are a group of 25 Interdisciplinary Technical Universities of higher education in India, focused on Information Technology. Five of them are established, funded and managed by the Ministry of Human Resource Development. The rest 20 are set up on the public-private partnership (PPP) model.</string>
-
-
+    <string name="about_mpc">hi</string>
 </resources>

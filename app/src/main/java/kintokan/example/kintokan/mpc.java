@@ -2,26 +2,16 @@ package kintokan.example.kintokan;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.content.Intent;
+
 import android.os.Bundle;
-import android.view.View;
-import android.widget.Button;
 
 import com.example.kintokan.R;
 
-public class inter extends AppCompatActivity {
+public class mpc extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-
-
-
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_inter);
-
-
-
-
+        setContentView(R.layout.activity_mpc);
     }
-
 }

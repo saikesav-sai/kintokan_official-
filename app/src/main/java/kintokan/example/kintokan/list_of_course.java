@@ -31,6 +31,14 @@ public class list_of_course extends AppCompatActivity {
         iti_button=(Button)findViewById(R.id.iti_button);
 
 
+        Button after_inter = (Button) findViewById(R.id.after_inter);
+
+        after_inter.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent inter_intent=new Intent(list_of_course.this,mpc.class);
+            }
+        });
 
 
         //calling inter
@@ -74,14 +82,10 @@ public class list_of_course extends AppCompatActivity {
 
     public void calling_inter()
     {
-        Intent inter_intent=new Intent(this,inter.class);
+        Intent inter_intent=new Intent(list_of_course.this,inter.class);
         startActivity(inter_intent);
     }
-    public void calling_AfterMPC()
-    {
-        Intent AfterMPC_intent=new Intent(this,inter.class);
-        startActivity(AfterMPC_intent);
-    }
+
 
 
     public void calling_diploma()
