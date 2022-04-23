@@ -14,12 +14,12 @@
 
         <ImageView
             android:id="@+id/imageView"
-            android:layout_width="204dp"
-            android:layout_height="179dp"
-            android:layout_centerHorizontal="true"
-            android:layout_marginTop="30dp"
-            android:contentDescription="logo"
-            app:srcCompat="@drawable/_0220329_141439" />
+            android:layout_width="match_parent"
+            android:layout_height="275dp"
+            android:layout_marginTop="-51dp"
+            android:paddingTop="40dp"
+            app:srcCompat="@drawable/whatsapp_image_2022_04_20_at_7_05_38_am" />
+
 
         <TextView
             android:id="@+id/name"
@@ -101,7 +101,6 @@
         </Button>
 
 
-
         <Button
             android:id="@+id/about_us"
             android:layout_width="143dp"
@@ -116,13 +115,6 @@
 
         </Button>
 
-        <ImageView
-            android:id="@+id/imageView2"
-            android:layout_width="match_parent"
-            android:layout_height="275dp"
-            android:layout_alignTop="@+id/imageView"
-            android:layout_marginTop="-42dp"
-            app:srcCompat="@drawable/whatsapp_image_2022_04_20_at_7_05_38_am" />
 
 
     </RelativeLayout>

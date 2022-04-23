@@ -21,8 +21,12 @@ public class MainActivity extends AppCompatActivity {
         Button button,contact_us_code;
         EditText name_input,age_input;
 
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+
+
 
 
         super.onCreate(savedInstanceState);
@@ -70,7 +74,20 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+
+
+
+
+
+
+
+
+
+
+
     }
+
+
 
 public void activity()
 {
@@ -82,6 +99,8 @@ public void contact_us_activity()
     Intent intent_1=new Intent(this,contact_us.class);
     startActivity(intent_1);
 }
+
+
 
 
 
