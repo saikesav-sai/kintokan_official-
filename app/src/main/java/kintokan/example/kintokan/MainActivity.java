@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
         name_input=(EditText) findViewById(R.id.name_input);
         age_input=(EditText) findViewById(R.id.age_input);
         button=(Button) findViewById(R.id.button1);
+        Button about_us=(Button)findViewById(R.id.about_us);
         contact_us_code=(Button)findViewById(R.id.contact_us);
         button.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -54,6 +55,13 @@ public class MainActivity extends AppCompatActivity {
 
 
 
+        about_us.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent=new Intent(MainActivity.this,about_us.class);
+                startActivity(intent);
+            }
+        });
 
         contact_us_code.setOnClickListener(new View.OnClickListener() {
             @Override

@@ -19,6 +19,7 @@ public class inter extends AppCompatActivity {
         Button after_bipc=(Button) findViewById(R.id.after_bipc);
 
 
+
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_inter);
 
@@ -33,22 +34,22 @@ public class inter extends AppCompatActivity {
         after_cec.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent mpc_intent=new Intent(inter.this,cec.class);
-                startActivity(mpc_intent);
+                Intent cec_intent=new Intent(inter.this,cec.class);
+                startActivity(cec_intent);
             }
         });
         after_hec.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent mpc_intent=new Intent(inter.this,hec.class);
-                startActivity(mpc_intent);
+                Intent hec_intent=new Intent(inter.this,hec.class);
+                startActivity(hec_intent);
             }
         });
         after_bipc.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent mpc_intent=new Intent(inter.this,bipc.class);
-                startActivity(mpc_intent);
+                Intent bipc_intent=new Intent(inter.this,bipc.class);
+                startActivity(bipc_intent);
             }
         });
 

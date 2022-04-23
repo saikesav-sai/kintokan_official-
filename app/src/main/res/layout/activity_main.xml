@@ -103,7 +103,7 @@
 
 
         <Button
-            android:id="@+id/contact_us"
+            android:id="@+id/about_us"
             android:layout_width="143dp"
             android:layout_height="wrap_content"
             android:layout_below="@id/button1"
