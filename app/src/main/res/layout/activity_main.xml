@@ -1,126 +1,129 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
 
     xmlns:tools="http://schemas.android.com/tools"
     tools:context="kintokan.example.kintokan.MainActivity">
-<RelativeLayout
-    android:layout_width="match_parent"
-    android:layout_height="match_parent">
 
-
-    <ImageView
-        android:id="@+id/imageView"
-        android:layout_width="204dp"
-        android:layout_height="179dp"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="30dp"
-        android:contentDescription="logo"
-        app:srcCompat="@drawable/_0220329_141439" />
-
-    <TextView
-        android:id="@+id/name"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_below="@id/imageView"
-        android:layout_marginLeft="20dp"
-        android:layout_marginTop="123dp"
-        android:text="Name :"
-        android:textSize="20dp">
-
-    </TextView>
-
-    <EditText
-        android:id="@+id/name_input"
-        android:layout_width="250dp"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/imageView"
-        android:layout_marginLeft="12dp"
-        android:layout_marginTop="114dp"
-        android:layout_toRightOf="@+id/name"
-
-        >
-
-    </EditText>
-
-    <EditText
-        android:id="@+id/age_input"
-        android:layout_width="250dp"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/imageView"
-        android:layout_marginLeft="14dp"
-        android:layout_marginTop="161dp"
-        android:layout_toRightOf="@+id/age"
-        android:inputType="number"
-
-
-        >
-
-    </EditText>
-
-    <TextView
-        android:id="@+id/age"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_below="@id/imageView"
-        android:layout_marginLeft="20dp"
-        android:layout_marginTop="161dp"
-        android:text="Age     :"
-        android:textSize="20dp">
-
-    </TextView>
-
-    <Button
-        android:id="@+id/button1"
-        android:layout_width="300dp"
-        android:layout_height="wrap_content"
-        android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="450dp"
-        android:text="REGISTER"
-        app:backgroundTint="#32CD32">
-
-    </Button>
-
-
-    <Button
-        android:id="@+id/contact_us"
-        android:layout_width="143dp"
-        android:layout_height="wrap_content"
-        android:layout_below="@id/button1"
-        android:layout_marginLeft="20dp"
-        android:layout_marginTop="80dp"
-        android:layout_marginRight="20dp"
-        android:text="contact us"
-        android:textColor="@color/white"
-        app:backgroundTint="#002366">
-
-    </Button>
-
-    <Button
-        android:id="@+id/contact_us"
-        android:layout_width="143dp"
-        android:layout_height="wrap_content"
-        android:layout_below="@id/button1"
-        android:layout_marginLeft="240dp"
-        android:layout_marginTop="80dp"
-        android:layout_marginRight="20dp"
-        android:text="about us"
-        android:textColor="@color/white"
-        app:backgroundTint="#002366">
-
-    </Button>
-
-    <ImageView
-        android:id="@+id/imageView2"
+    <RelativeLayout
         android:layout_width="match_parent"
-        android:layout_height="275dp"
-        android:layout_alignTop="@+id/imageView"
-        android:layout_marginTop="-60dp"
-        app:srcCompat="@drawable/whatsapp_image_2022_04_20_at_7_05_38_am" />
+        android:layout_height="match_parent">
 
 
-</RelativeLayout>
-</RelativeLayout>
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="204dp"
+            android:layout_height="179dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="30dp"
+            android:contentDescription="logo"
+            app:srcCompat="@drawable/_0220329_141439" />
+
+        <TextView
+            android:id="@+id/name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/imageView"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="123dp"
+            android:text="Name :"
+            android:textSize="20dp">
+
+        </TextView>
+
+        <EditText
+            android:id="@+id/name_input"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/imageView"
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="114dp"
+            android:layout_toRightOf="@+id/name"
+
+            >
+
+        </EditText>
+
+        <EditText
+            android:id="@+id/age_input"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/imageView"
+            android:layout_marginLeft="14dp"
+            android:layout_marginTop="161dp"
+            android:layout_toRightOf="@+id/age"
+            android:inputType="number"
+
+
+            >
+
+        </EditText>
+
+        <TextView
+            android:id="@+id/age"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/imageView"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="161dp"
+            android:text="Age     :"
+            android:textSize="20dp">
+
+        </TextView>
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="450dp"
+            android:text="REGISTER"
+            app:backgroundTint="#32CD32">
+
+        </Button>
+
+
+        <Button
+            android:id="@+id/contact_us"
+            android:layout_width="143dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/button1"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="80dp"
+            android:layout_marginRight="20dp"
+            android:text="contact us"
+            android:textColor="@color/white"
+            app:backgroundTint="#002366">
+
+        </Button>
+
+
+
+        <Button
+            android:id="@+id/contact_us"
+            android:layout_width="143dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/button1"
+            android:layout_marginLeft="240dp"
+            android:layout_marginTop="85dp"
+            android:layout_marginRight="20dp"
+            android:text="about us"
+            android:textColor="@color/white"
+            app:backgroundTint="#002366">
+
+        </Button>
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="match_parent"
+            android:layout_height="275dp"
+            android:layout_alignTop="@+id/imageView"
+            android:layout_marginTop="-42dp"
+            app:srcCompat="@drawable/whatsapp_image_2022_04_20_at_7_05_38_am" />
+
+
+    </RelativeLayout>
+</ScrollView>

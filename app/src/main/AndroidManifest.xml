@@ -9,6 +9,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Kintokan">
         <activity
+            android:name="kintokan.example.kintokan.bipc"
+            android:exported="false" />
+        <activity
+            android:name="kintokan.example.kintokan.hec"
+            android:exported="false" />
+        <activity
+            android:name="kintokan.example.kintokan.cec"
+            android:exported="false" />
+        <activity
             android:name="kintokan.example.kintokan.mpc"
             android:exported="false" />
         <activity

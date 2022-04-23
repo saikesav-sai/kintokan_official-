@@ -31,16 +31,6 @@ public class list_of_course extends AppCompatActivity {
         iti_button=(Button)findViewById(R.id.iti_button);
 
 
-        Button after_inter = (Button) findViewById(R.id.after_inter);
-
-        after_inter.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent inter_intent=new Intent(list_of_course.this,mpc.class);
-            }
-        });
-
-
         //calling inter
         inter_button.setOnClickListener(new View.OnClickListener() {
             @Override

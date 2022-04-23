@@ -23,6 +23,18 @@
             android:textSize="20sp" />
 
 
+        <Button
+            android:id="@+id/after_mpc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="159dp"
+            android:layout_marginLeft="150dp"
+            android:backgroundTint="@color/green"
+            android:text="after mpc"
+
+            >
+
+        </Button>
 
 
         <TextView
@@ -50,6 +62,19 @@
             android:text="@string/inter_2"
             android:textSize="20sp" />
 
+        <Button
+            android:id="@+id/after_hec"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="159dp"
+            android:layout_marginLeft="150dp"
+            android:backgroundTint="@color/green"
+            android:text="after hec"
+
+            >
+
+        </Button>
+
         <TextView
             android:id="@+id/inter_3"
             android:layout_width="match_parent"
@@ -60,7 +85,18 @@
             android:layout_marginRight="30dp"
             android:paddingTop="100dp"
             />
+        <Button
+            android:id="@+id/after_cec"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="159dp"
+            android:layout_marginLeft="150dp"
+            android:backgroundTint="@color/green"
+            android:text="after cec"
 
+            >
+
+        </Button>
         <TextView
             android:id="@+id/inter_4"
             android:layout_width="match_parent"
@@ -74,6 +110,19 @@
 
 
             />
+        <Button
+            android:id="@+id/after_bipc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="159dp"
+            android:layout_marginLeft="150dp"
+            android:backgroundTint="@color/green"
+            android:text="after bipc"
+
+            >
+
+        </Button>
+
 
 
         <TextView
