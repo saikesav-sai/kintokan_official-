@@ -117,11 +117,13 @@
 
         <TextView
             android:id="@+id/textView"
-            android:layout_width="match_parent"
-            android:layout_height="20dp"
-            android:layout_marginTop="250dp"
+            android:layout_width="262dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="140dp"
+            android:layout_marginTop="280dp"
             android:text="Kintokan"
-            android:layout_marginLeft="150dp"/>
+            android:textSize="30dp"
+            android:textStyle="italic"/>
 
 
     </RelativeLayout>
