@@ -13,6 +13,11 @@
         android:orientation="vertical"
         >
 
+
+
+
+
+
         <TextView
             android:id="@+id/inter_1"
             android:layout_width="match_parent"
@@ -21,7 +26,6 @@
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
             android:textSize="20sp" />
-
 
 
 
@@ -39,7 +43,6 @@
 
 
 
-
         <TextView
             android:id="@+id/inter_2"
             android:layout_width="match_parent"
@@ -52,7 +55,6 @@
             android:textSize="20sp" />
 
 
-
         <TextView
             android:id="@+id/inter_3"
             android:layout_width="match_parent"
@@ -63,6 +65,7 @@
             android:layout_marginRight="30dp"
             android:paddingTop="100dp"
             />
+
 
         <TextView
             android:id="@+id/inter_4"
